@@ -1,3 +1,9 @@
+
+If the code dose not lode here properly nbviewer online, you don't need to install it.
+
+Open "https://nbviewer.jupyter.org/"
+Paste the link of the github code to your notebook, 
+
 # DiabetesPredection-Machine-Learning
 Abstract: 
 Diabetes Prediction Using Machine Learning 
